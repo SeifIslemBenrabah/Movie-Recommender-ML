@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: src
+Version: 0.0.1
+Summary: A small exemple package for movies recommendation
+Home-page: 
+Author: Benrabah Seif Islem
+Author-email: islamsseeiiff@gmail.com
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: requires-dist
+Dynamic: summary
+
+# Movie-Recommender-ML
